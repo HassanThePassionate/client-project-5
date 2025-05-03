@@ -331,4 +331,7 @@ h2 {
   .img-sec {
     background-position: center;
   }
+  .down-icon {
+    bottom: 32px;
+  }
 }
