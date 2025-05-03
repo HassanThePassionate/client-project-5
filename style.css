@@ -291,4 +291,10 @@ h2 {
   .img-bottom-2 {
     bottom: -60px;
   }
+  .main {
+    background-position: right;
+  }
+  .img-sec {
+    background-position: center;
+  }
 }
