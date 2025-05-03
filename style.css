@@ -267,7 +267,7 @@ h2 {
   margin-bottom: 10px;
 }
 .social-footer {
-  background-color: #000;
+  width: 100%;
 }
 .social {
   display: flex;
